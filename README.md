@@ -1,6 +1,10 @@
 # krtech-PATH-FINDER
 PROTECTED FUNCTION STILL REMAIN
 
-installatin guide
+installation guide
 
 pip3 install pyarmor
+pip install aiohttp async-timeout backoff
+
+
+and python3 krtech.py 
